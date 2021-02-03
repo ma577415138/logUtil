@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <!-- 设置deploy的地址 -->
     <distributionManagement>
-      
+
     </distributionManagement>
 
     <properties>
